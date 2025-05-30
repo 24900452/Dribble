@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-## Date:28.05.25
+## Date:30.05.25
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
@@ -34,7 +34,6 @@ Publish the website in the LocalHost.
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-    <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container">
             <a class="navbar-brand fw-bold text-danger" href="#">Dribbble</a>
@@ -60,13 +59,13 @@ Publish the website in the LocalHost.
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6 text-center text-md-middle">
-                    <h1 class="display-4 fw-bold">What are you working on?</h1>
+                    <h1 class="display-4 fw-bold">Wanna make things work?</h1>
                     <p class="my-3">Dribbble is a show-and-tell platform for designers.</p>
                     <button class="btn btn-secondary me-2">Learn More</button>
                     <button class="btn btn-primary">Sign up</button>
                 </div>
                 <div class="col-md-6 text-center">
-                    <img src="home.png" class="img-fluid" alt="Design Work" style="height: 45vh;">
+                    <img src="home.jpg" class="img-fluid" alt="Design Work" style="height: 45vh;">
                 </div>
             </div>
         </div>
@@ -86,69 +85,69 @@ Publish the website in the LocalHost.
             <div class="row g-4">
                 <div class="col-md-3 col-sm-6">
                     <div class="card shot-card">
-                        <img src="img4.jpeg" width="300" height="225">
+                        <img src="img1.jpg" width="300" height="225">
                       
                         <div class="card-body text-center">
-                            <p class="card-text mb-0">🔗 Awe Design Studio</p>
+                            <p class="card-text mb-0">🔗 Design Studio</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="card shot-card">
-                        <img src="img7.jpg" width="300" height="225">
+                        <img src="coffee.jpg" width="300" height="225">
                         
                         <div class="card-body text-center">
-                            <p class="card-text mb-0">🔗 Russlan silz</p>
+                            <p class="card-text mb-0">🔗 Kaffeteria</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="card shot-card">
-                        <img src="img6.jpeg" width="300" height="225">
+                        <img src="dawg.jpg" width="300" height="225">
                         <div class="card-body text-center">
-                            <p class="card-text mb-0">🔗 Alfrey Davilla</p>
+                            <p class="card-text mb-0">🔗 Scenary pops</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="card shot-card">
-                        <img src="https://cdn.dribbble.com/users/1739084/screenshots/4448965/kyzzlj.jpg?resize=400x300&vertical=center" class="card-img-top" alt="Shot 2">
+                        <img src="speak out.jpg" width="300" height="225">
                        
                         <div class="card-body text-center">
-                            <p class="card-text mb-0">🔗 MakeReign</p>
+                            <p class="card-text mb-0">🔗 Speak out</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="card shot-card">
-                        <img src="https://cdn.dribbble.com/users/140043/screenshots/9106916/dribbble_4_compressed.png?resize=400x300&vertical=center" class="card-img-top" alt="Shot 2">
+                        <img src="dogreat.jpg" width="300" height="225">
                         <div class="card-body text-center">
-                            <p class="card-text mb-0">🔗 Mattias Johannson</p>
+                            <p class="card-text mb-0">🔗 Greatbuys</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="card shot-card">
-                        <img src="img2.jpg" width="300" height="225">
+                        <img src="stars.jpg" width="300" height="225">
                         
                         <div class="card-body text-center">
-                            <p class="card-text mb-0">🔗 Jan Losert</p>
+                            <p class="card-text mb-0">🔗 Gazing</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="card shot-card">
-                        <img src="img3.jpeg"width="300" height="225">
+                        <img src="key.jpg"width="300" height="225">
                         <div class="card-body text-center">
-                            <p class="card-text mb-0">🔗 Wkio</p>
+                            <p class="card-text mb-0">🔗 Keys</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="card shot-card">
-                        <img src="https://cdn.dribbble.com/userupload/10964296/file/original-ffa83431e0b8639f6d1036a0f80c76ae.png?resize=400x300&vertical=center" class="card-img-top" alt="Shot 2">
+                        <img src="man.jpg" width="300" height="225">
                         <div class="card-body text-center">
-                            <p class="card-text mb-0">🔗 Romain Tystramm</p>
+                            <p class="card-text mb-0">🔗 Manhole</p>
                         </div>
                     </div>
                 </div>
@@ -156,11 +155,9 @@ Publish the website in the LocalHost.
         </div>
         </div>
     </section>
-
-    <!-- Footer -->
     <footer class="bg-dark text-white py-3">
         <div class="container text-center">
-            <p class="mb-0">Designed and developed by PREETHI D (24007817)</p>
+            <p class="mb-0">&copy; Works By JOTHI 2025</p>
         </div>
     </footer>
 
@@ -171,8 +168,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/8eb056f4-30fc-4327-8971-122fa588d44a)
 
+![alt text](image.png)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
